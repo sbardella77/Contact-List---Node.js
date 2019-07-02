@@ -14,8 +14,8 @@
     "path": "^0.12.7",
     "pug": "^2.0.4"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Patrizio Sbardella",
+  "license": "ISC","MIT",
   "devDependencies": {
     "nodemon": "^1.19.1"
   }
